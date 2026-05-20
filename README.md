@@ -1,2 +1,7 @@
-# demo-consper-sa
-Demo web para Consper SA — diseñada por eterlab.
+# Consper SA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
